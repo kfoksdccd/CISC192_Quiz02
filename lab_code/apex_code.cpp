@@ -10,3 +10,7 @@ void quiz(stringstream& cin, stringstream& cout)
     
 }
 
+void bonus(stringstream& cin, stringstream& cout)
+{
+    
+}
