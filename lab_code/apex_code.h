@@ -7,6 +7,5 @@
 #define APEXLAB_APEX_CODE_H
 
 void quiz(std::stringstream& cin, std::stringstream& cout);
-void bonus(std::stringstream& cin, std::stringstream& cout);
 
 #endif //APEXLAB_APEX_CODE_H
